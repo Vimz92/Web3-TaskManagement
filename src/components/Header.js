@@ -71,7 +71,7 @@ const Header = () => {
 
           <div className={styles.rightHeader}>
             <div className={styles.textContainer}>
-              <div className={styles.textbig}> Diane Ward </div>
+              <div className={styles.textbig}> Vimal Vinayraj </div>
               <div className={styles.textsmall}>Project Manager</div>
             </div>
 
